@@ -255,7 +255,7 @@ err_SMS_num_digit = 302
 SMS_server = ""			#	"+33695000695"
 tel_admin= ""			#	"+33770044858"
 addEmailFrom = ""		#	"kiting4free@gmail.com"
-addEmailPass = ""		#	"kitenmnm"
+addEmailPass = ""		#	""
 addEmailAdm = ""		#	"mercouroff@gmail.com"
 
 addEmailNPR = "ne-pas-repondre@gmail.com"
